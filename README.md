@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 <p>
 <image src="https://github-readme-stats.vercel.app/api?username=mesquitaoliveira&theme=gotham" width="420px">
-<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesquitaoliveira&theme=gotham" width="210px">
 <p>
+  
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=mesquitaoliveira&theme=highcontrast&fire=00E569&ring=00E569&currStreakLabel=00E569&currStreakNum=00E569&sideNums=00C88C&sideLabels=00C88C&dates=EBEBEB)](https://git.io/streak-stats)
