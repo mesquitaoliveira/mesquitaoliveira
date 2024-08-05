@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 <p>
 <image src="https://github-readme-stats.vercel.app/api?username=mesquitaoliveira&theme=gotham" width="420px">
-<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesquitaoliveira&theme=gotham" width="210px">
 <p>
