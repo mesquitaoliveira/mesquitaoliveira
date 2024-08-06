@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-<image src="https://github-readme-stats.vercel.app/api?username=mesquitaoliveira&theme=gotham" width="420px">
+<image src="https://stats-phi-wine.vercel.app/api?username=mesquitaoliveira&theme=gotham" width="420px">
 <p>
